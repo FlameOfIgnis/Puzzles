@@ -1,8 +1,6 @@
 #include <iostream>
 
-
 using namespace std;
-
 
 int main() {
 
@@ -21,7 +19,6 @@ int main() {
 			c--;
 		while (d % 15)
 			d--;
-
 
 		tot = 0;
 		b = b / 3;
